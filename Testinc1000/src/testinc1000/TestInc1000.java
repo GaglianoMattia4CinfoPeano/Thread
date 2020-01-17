@@ -7,7 +7,7 @@ package testinc1000;
 
 /**
  *
- * @author tancau.andrei
+ * @author gagliano.mattia
  */
 public class TestInc1000 {
 
