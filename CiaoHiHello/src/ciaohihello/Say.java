@@ -7,7 +7,7 @@ package ciaohihello;
 
 /**
  *
- * @author moresi.fabio
+ * @author gagliano.mattia
  */
 public class Say extends Thread{
     String cosaDire;
