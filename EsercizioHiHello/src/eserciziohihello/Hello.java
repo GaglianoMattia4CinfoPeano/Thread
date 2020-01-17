@@ -7,7 +7,7 @@ package eserciziohihello;
 
 /**
  *
- * @author moresi.fabio
+ * @author gagliano.mattia
  */
 public class Hello extends Thread {
 
