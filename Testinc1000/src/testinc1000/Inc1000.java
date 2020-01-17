@@ -10,7 +10,7 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author tancau.andrei
+ * @author gagliano.mattia
  */
 public class Inc1000 extends Thread{
     
